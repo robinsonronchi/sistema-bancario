@@ -8,7 +8,7 @@ Iniciar a modelagem do sistema bancário em POO. Adicionar classes para cliente 
 
 Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML a seguir:
 
-[]([https://github.com/robinsonronchi/sistema-bancario/tree/main/v2](https://github.com/robinsonronchi/sistema-bancario/blob/main/v3-POO/Trilha%20Python%20-%20desafio.png))
+![App Screenshot](https://github.com/robinsonronchi/sistema-bancario/blob/main/v3-POO/Trilha%20Python%20-%20desafio.png)
 
 ## Desafio Extra
 
